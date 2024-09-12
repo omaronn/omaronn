@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omaronn
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
